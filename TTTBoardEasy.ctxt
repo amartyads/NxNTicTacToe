@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=n\ player\ b\ rgen
+comment0.target=TTTBoardEasy(int,\ Player,\ java.io.BufferedReader,\ java.util.Random)
+comment1.params=
+comment1.target=void\ playGame()
+comment2.params=
+comment2.target=void\ doGameStep()
+comment3.params=
+comment3.target=void\ takeInp()
+comment4.params=
+comment4.target=void\ doCPUMove()
+comment5.params=
+comment5.target=Player\ won()
+comment6.params=
+comment6.target=boolean\ drawn()
+numComments=7

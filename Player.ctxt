@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=i
+comment0.target=Player(int)
+comment1.params=i
+comment1.target=boolean\ equals(int)
+comment2.params=
+comment2.target=int\ getVal()
+numComments=3
